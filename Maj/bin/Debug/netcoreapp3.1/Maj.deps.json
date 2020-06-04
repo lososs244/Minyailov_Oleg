@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Maj/1.0.0": {
+        "dependencies": {
+          "classes": "1.0.0"
+        },
+        "runtime": {
+          "Maj.dll": {}
+        }
+      },
+      "classes/1.0.0": {
+        "runtime": {
+          "classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

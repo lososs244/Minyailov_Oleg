@@ -1,0 +1,16 @@
+D:\STUD\Proga\Cursa4\Maj\bin\Debug\netcoreapp3.1\Maj.exe
+D:\STUD\Proga\Cursa4\Maj\bin\Debug\netcoreapp3.1\Maj.deps.json
+D:\STUD\Proga\Cursa4\Maj\bin\Debug\netcoreapp3.1\Maj.runtimeconfig.json
+D:\STUD\Proga\Cursa4\Maj\bin\Debug\netcoreapp3.1\Maj.runtimeconfig.dev.json
+D:\STUD\Proga\Cursa4\Maj\bin\Debug\netcoreapp3.1\Maj.dll
+D:\STUD\Proga\Cursa4\Maj\bin\Debug\netcoreapp3.1\Maj.pdb
+D:\STUD\Proga\Cursa4\Maj\obj\Debug\netcoreapp3.1\Maj.csprojAssemblyReference.cache
+D:\STUD\Proga\Cursa4\Maj\obj\Debug\netcoreapp3.1\Maj.csproj.CoreCompileInputs.cache
+D:\STUD\Proga\Cursa4\Maj\obj\Debug\netcoreapp3.1\Maj.AssemblyInfoInputs.cache
+D:\STUD\Proga\Cursa4\Maj\obj\Debug\netcoreapp3.1\Maj.AssemblyInfo.cs
+D:\STUD\Proga\Cursa4\Maj\obj\Debug\netcoreapp3.1\Maj.dll
+D:\STUD\Proga\Cursa4\Maj\obj\Debug\netcoreapp3.1\Maj.pdb
+D:\STUD\Proga\Cursa4\Maj\obj\Debug\netcoreapp3.1\Maj.genruntimeconfig.cache
+D:\STUD\Proga\Cursa4\Maj\bin\Debug\netcoreapp3.1\classes.dll
+D:\STUD\Proga\Cursa4\Maj\bin\Debug\netcoreapp3.1\classes.pdb
+D:\STUD\Proga\Cursa4\Maj\obj\Debug\netcoreapp3.1\Maj.csproj.CopyComplete

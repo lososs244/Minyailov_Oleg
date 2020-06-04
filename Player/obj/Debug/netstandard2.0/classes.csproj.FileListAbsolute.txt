@@ -1,0 +1,9 @@
+D:\STUD\Proga\Cursa4\Player\bin\Debug\netstandard2.0\classes.deps.json
+D:\STUD\Proga\Cursa4\Player\bin\Debug\netstandard2.0\classes.dll
+D:\STUD\Proga\Cursa4\Player\bin\Debug\netstandard2.0\classes.pdb
+D:\STUD\Proga\Cursa4\Player\obj\Debug\netstandard2.0\classes.csprojAssemblyReference.cache
+D:\STUD\Proga\Cursa4\Player\obj\Debug\netstandard2.0\classes.csproj.CoreCompileInputs.cache
+D:\STUD\Proga\Cursa4\Player\obj\Debug\netstandard2.0\classes.AssemblyInfoInputs.cache
+D:\STUD\Proga\Cursa4\Player\obj\Debug\netstandard2.0\classes.AssemblyInfo.cs
+D:\STUD\Proga\Cursa4\Player\obj\Debug\netstandard2.0\classes.dll
+D:\STUD\Proga\Cursa4\Player\obj\Debug\netstandard2.0\classes.pdb

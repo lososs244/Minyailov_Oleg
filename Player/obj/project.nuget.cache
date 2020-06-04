@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SEKqQ1uJ6WcvWdgXZix+1Ul9d051h3YiqdqtuL68+T1wh4ilNz8F7DkQF46NBgdDjdfEn07oN7plRA8RENN6Zw==",
+  "success": true,
+  "projectFilePath": "D:\\STUD\\Proga\\Cursa4\\Player\\classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
